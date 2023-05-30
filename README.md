@@ -11,3 +11,6 @@ This Kaggle Getting Started Competition provides an ideal starting place for peo
 
 Goal for this Notebook:
 Show a simple example of an analysis of the Titanic disaster in Python. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
+
+
+![image](https://github.com/Swati-Latta/Titanic-Analysis/assets/134490572/e43db649-be04-4670-bb82-6fed85ce44b3)
