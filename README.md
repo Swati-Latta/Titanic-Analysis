@@ -14,11 +14,19 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
 
 
 ![image](https://github.com/Swati-Latta/Titanic-Analysis/assets/134490572/e43db649-be04-4670-bb82-6fed85ce44b3)
+/
+/
 
 
-
+# The Chart confirms 1st class more likely survivied than other classes.
+# The Chart confirms 3rd class more likely dead than other classe
 ![image](https://github.com/Swati-Latta/Titanic-Analysis/assets/134490572/967b4a95-2648-4de9-b15e-3fdad6b33bb1)
-
+/
+/
+# The Chart confirms Women more likely survivied than Men
 ![image](https://github.com/Swati-Latta/Titanic-Analysis/assets/134490572/3431879a-a3f6-406e-8f53-ce0a6924f4b3)
-
+/
+/
+# The Chart confirms a person aboarded with more than 2 siblings or spouse more likely survived.
+# The Chart confirms a person aboarded without siblings or spouse more likely dead
 ![image](https://github.com/Swati-Latta/Titanic-Analysis/assets/134490572/59c6742a-5d79-471a-996f-b1f52c559a4b)
