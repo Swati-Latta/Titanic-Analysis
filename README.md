@@ -14,3 +14,7 @@ Show a simple example of an analysis of the Titanic disaster in Python. This is 
 
 
 ![image](https://github.com/Swati-Latta/Titanic-Analysis/assets/134490572/e43db649-be04-4670-bb82-6fed85ce44b3)
+
+
+
+![image](https://github.com/Swati-Latta/Titanic-Analysis/assets/134490572/967b4a95-2648-4de9-b15e-3fdad6b33bb1)
