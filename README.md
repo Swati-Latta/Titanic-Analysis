@@ -11,7 +11,7 @@ In this contest, we ask you to complete the analysis of what sorts of people wer
 This Kaggle Getting Started Competition provides an ideal starting place for people who may not have a lot of experience in data science and machine learning.
 
 # **Goal for this Project:**
-My goal was to answer ceitical question such as who survived the tragedy and what factors contributed to survival.
+My goal was to answer critical questions such as who survived the tragedy and what factors contributed to survival.
 
 
 ![image](https://github.com/Swati-Latta/Titanic-Analysis/assets/134490572/e43db649-be04-4670-bb82-6fed85ce44b3)
