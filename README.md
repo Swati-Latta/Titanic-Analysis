@@ -60,7 +60,7 @@ My goal was to answer critical questions such as who survived the tragedy and wh
 
     1. Started with downloading the data from Kaggle website.
     
-    2. Load the dta into Python Jyputer Notebook for further analysis. 
+    2. Load the data into Python Jyputer Notebook for further analysis. 
     
     3. Did the Data cleaning(EDA) part with the help of Pandas and NumPy.
     
